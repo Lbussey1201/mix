@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,USA_ESPN-1
+http://217.23.7.160:5475/live/iptv2016/5622295666745/1151.ts
+#EXTINF:-1,USA_Comedy-Central-HD
+http://217.23.7.160:5475/live/iptv2016/5622295666745/1155.ts
+#EXTINF:-1,USA_HBO-Comedy
+http://217.23.7.160:5475/live/iptv2016/5622295666745/1142.ts
+#EXTINF:-1,USA_TNT-HD
+http://217.23.7.160:5475/live/iptv2016/5622295666745/1141.ts
+#EXTINF:-1,USA_SyFy-HD
+http://217.23.7.160:5475/live/iptv2016/5622295666745/1131.ts
+#EXTINF:-1,|US| CNN HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/2445.ts
+#EXTINF:-1,|US| BLOOMBERG HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/2444.ts
+#EXTINF:-1,|US| SHOWTIME HD
+http://king365tv.homeip.net:2103/live/dareh92360@outlook.fr/TmeGG611Dl/2457.ts
